@@ -15,6 +15,7 @@ function Form() {
                 <div>
                     <textarea name="text-area" id="" cols="30" rows="10" placeholder='Enter your message here' className='form-control mt-3'></textarea>
                 </div>
+                <a href="" className="btn btn-danger text-center mt-3">Submit</a>
 
             </form>
         </>
