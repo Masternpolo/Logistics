@@ -27,7 +27,7 @@ function Footer() {
             </ul>
           </div>
           <div className="col-md-3">
-            <h4 className='mb-2'>PHOTO GALLERY</h4>
+            <h4 className='mb-2 mb-sm-2'>PHOTO GALLERY</h4>
             <div className="d-flex">
               <div className="flex-grow-1 me-3 mb-3">
                 <img src={Footer1} alt="footer1"className='img-fluid' />
